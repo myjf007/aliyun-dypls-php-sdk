@@ -1,0 +1,24 @@
+{
+  "name": "abo/aliyun-dypls-php-sdk",
+  "description": "Aliyun PLS SDK for PHP",
+  "type": "library",
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.0"
+  },
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "myjf007",
+      "email": "myjf007@126.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Aliyun\\": "lib/"
+    }
+  }
+}
