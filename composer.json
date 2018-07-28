@@ -1,5 +1,5 @@
 {
-  "name": "abo/aliyun-dypls-php-sdk",
+  "name": "myjf007/aliyun-dypls-php-sdk",
   "description": "Aliyun PLS SDK for PHP",
   "type": "library",
   "require": {
